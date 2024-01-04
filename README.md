@@ -8,8 +8,7 @@ A Web Developer specializing in JavaScript and ReactJs ecosystems.
 💥Interested in JavaScript & ReactJs opportunities💥
 ---------------------------------------
 
-Front-End Developer with a proven ability to collaborate effectively with senior developers while spending extra time to be mentored. Enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks and personally picking up the slack when necessary. With a passion for both personal growth and for software development, I attended a 1000+ hour coding bootcamp to learn new languages while sharpening existing skills. Ready to apply my passion for coding to a talented engineering team to develop quality solutions.
-
+A budding front-end developer specializing in React, a popular JavaScript library for building user interfaces. Armed with a solid understanding of HTML, CSS, and JavaScript, this individual is enthusiastic about creating dynamic and responsive web applications. Proficient in leveraging React's component-based architecture, they collaborate closely with design teams and back-end developers to implement engaging user interfaces. Eager to enhance their skills in state management, component lifecycle, and React ecosystem tools, this developer is committed to staying abreast of React best practices. With a passion for crafting efficient and modular code, they aspire to contribute to the creation of cutting-edge, high-performance web applications.
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [ibrahim.gomaa1013@gmail.com](mailto:ibrahim.gomaa1013@gmail.com)
 * 🧠  I'm learning React / Redux and Typescript
